@@ -1,0 +1,31 @@
+#main{
+    border: 3px solid black;
+    margin: 150px 460px;
+    text-align: center;
+    border-radius: 10px;
+    height: 400px;
+}
+#pie{
+    font-size: 25px;
+    color: rgb(227, 116, 12);
+    background-color: rgb(176, 161, 161);
+    padding: 3px 0px;
+}
+#input{
+    border-bottom: 2px solid black;
+    text-decoration: none;
+}
+button:hover{
+    background-color: green;
+}
+#uli{
+    text-align: left;
+}
+#btn{
+    border-radius: 50%;
+    background-color: yellowgreen;
+    
+}
+#ide{
+    list-style-type: circle;
+}
